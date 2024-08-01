@@ -16,7 +16,7 @@ This Python script processes parameter lists from an input file, appends a keywo
 2. Clone this repository:
    
 ```
-git clone [https://github.com/yourusername/parameter-list-processor.git](https://github.com/omid001php/param_spiliter.git)
+git clone https://github.com/omid001php/param_spiliter.git
 ```
 
 ```

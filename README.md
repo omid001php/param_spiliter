@@ -20,7 +20,7 @@ git clone https://github.com/omid001php/param_spiliter.git
 ```
 
 ```
-cd parameter-list-processor
+cd param_spiliter
 ```
 
 4. 	**No additional** dependencies are required as the script uses only Python standard libraries.

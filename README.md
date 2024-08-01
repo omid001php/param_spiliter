@@ -29,7 +29,7 @@ cd param_spiliter
 
 Run the script from the command line with the following syntax:
 
-```python3 param_processor.py -u <input_file> -p <keyword> -s <split_size> [-c <cores>] [-e]```
+`python3 param_processor.py -u <input_file> -p <keyword> -s <split_size> [-c <cores>] [-e]`
 
 ### Arguments
 
